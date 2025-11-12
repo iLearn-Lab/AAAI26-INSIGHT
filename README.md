@@ -1,7 +1,7 @@
 # Intention-Guided Cognitive Reasoning for Egocentric Long-Term Action Anticipation
 
 > **TL;DR:** This framework connects perceptual understanding and cognitive reasoning to achieve egocentric video forecasting:
-Perception (Hand–Object) → Reasoning (Cognitive Anticipation) → Future Action Prediction
+Perception (Hand-Object) → Reasoning (Cognitive Anticipation) → Future Action Prediction
 
 ## 🧩 Project Structure
 ```
