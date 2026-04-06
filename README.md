@@ -31,7 +31,7 @@ Liqiang Nie<sup>1&#9993;</sup>
 
 ## 🆕 Updates
 
-- [03/2026] README updated.
+- [04/2026] README updated.
 - [2026] AAAI paper published: *Intention-Guided Cognitive Reasoning for Egocentric Long-Term Action Anticipation*.
 - [11/2025] Official repository released.
 
